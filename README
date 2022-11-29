@@ -1,3 +1,8 @@
 # Network Satisfactin Index
-### Churn Prediction over Telco user's data experience
+
+*a.k.a* **NSI**
+
+# Churn Prediction over Telco user's data experience
+A model to forcast subscriber behaviour/experience based on NSI
+
 DNS reverselookup becomes critical to analyse Customers experience, URL remains the winner however Laws remains restrictive to read it.
